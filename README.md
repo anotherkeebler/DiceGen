@@ -31,3 +31,8 @@ The wordlists are based on three existing DiceGen lists found online. I
 merged them like this:
 
     paste beale.wordlist.asc diceware.wordlist.asc eff.large.wordlist.asc | cut -f1,2,4,6 > merged.tsv
+
+## TODO
+
+* make it fancier looking and more robust
+* make it all a single file
