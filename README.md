@@ -31,6 +31,10 @@ The wordlists are based on three existing DiceGen lists found online. I
 merged them like this:
 
     paste beale.wordlist.asc diceware.wordlist.asc eff.large.wordlist.asc | cut -f1,2,4,6 > merged.tsv
+    
+_Notice_ the word lists were copied from the diceware project's page at
+http://world.std.com/~reinhold/diceware.html. If you want to be a bit more paranoid, download the
+GPG-signed originals from there.
 
 ## TODO
 
