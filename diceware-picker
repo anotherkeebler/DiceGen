@@ -42,7 +42,7 @@ Output:
 """ % (sys.argv[0], sys.argv[0]))
 
 
-# for a in [31164,51215,66556,16632,56316,41421]:
+# for a in [13131,55425,'butts',41421,31164,42115]:
 for a in sys.argv[1:]:
     try:
         outcome = "\t".join(word_dict[a])
