@@ -1,9 +1,14 @@
 This is free and unencumbered software released into the public domain.
+However, the word lists are supplemental to the software and are covered
+by other licenses, such as the
+https://creativecommons.org/licenses/by-nc-nd/3.0/ license for the Reinhold
+list; the Open Publication License v1.0 (or later) for the Beale word list;
+and whatever the EFF likes this week for the EFF list.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+As for the part I composed (the Python script and the README), anyone is
+free to copy, modify, publish, use, compile, sell, or distribute this
+software, either in source code form or as a compiled binary, for any
+purpose, commercial or non-commercial, and by anymeans.
 
 In jurisdictions that recognize copyright laws, the author or authors
 of this software dedicate any and all copyright interest in the
